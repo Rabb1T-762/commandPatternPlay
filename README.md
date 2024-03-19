@@ -24,3 +24,9 @@ Paradigm: Functional
 This is a slightly more interesting step. This is the first time I'm trying to implement a pattern without OOP.
 
 Let me give it a shot. 
+
+This was an interesting experiment. 
+
+It's interesting how you need to pass the functions you need to operate on the commandStack. 
+
+I had some trouble wrapping my head around how to pass things around and how to call it but I'm happy with the result. 
